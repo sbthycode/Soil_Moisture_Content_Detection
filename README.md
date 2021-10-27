@@ -1,4 +1,4 @@
-# Soil_Moisture_Content_Detection
+# Soil_Moisture_Content_Monitoring
 The project essentially aims at monitoring water content in soil and notifying the user as and when the water content drops below a certain threshold. This project targets users with indoor plants with special and specific water requirements. It can also be used to curb excessive water consumption in drought-ridden areas.
 
 # Prerequisites and Requirements for the Project
